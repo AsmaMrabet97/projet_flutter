@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "761899928359",
+    "project_id": "my-app-haffeli",
+    "storage_bucket": "my-app-haffeli.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:761899928359:android:8036670b9128f17317b702",
+        "android_client_info": {
+          "package_name": "com.haffeli.project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "761899928359-9eei3utlts186it1atoogccicjhn2vo1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.haffeli.project",
+            "certificate_hash": "d59fc8bf4ddeca806100a261377225f7cc5bb937"
+          }
+        },
+        {
+          "client_id": "761899928359-qcrff42airpedq3d3kf5a35arvrgerbq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbRw-qX-jSSOh9oZyV5RLG4orGzt8iW9A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "761899928359-qcrff42airpedq3d3kf5a35arvrgerbq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "761899928359-ml6oakt6hpadv8a9dcnf3un2sra69ocp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.haffeli.project"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

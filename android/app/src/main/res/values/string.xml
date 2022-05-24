@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">projet-haffeli</string>
+<string name="facebook_app_id">1147126442529090</string>
+<string name="fb_login_protocol_scheme">fb1147126442529090</string>
+<string name="facebook_client_token">079e187db20fd3339bb2865ffe8ea433</string>
+</resources>
